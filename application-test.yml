@@ -1,2 +1,4 @@
-demo:
-  title: "test env title"
+user:
+  userName: "test张五"
+  sex: 2
+  age: 11

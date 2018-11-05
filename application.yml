@@ -1,2 +1,2 @@
-demo:
-  title: "default title"
+spring.application.name=config-server
+server.port=8881

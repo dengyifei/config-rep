@@ -1,4 +1,5 @@
-user:
-  userName: "test张五"
-  sex: 2
-  age: 11
+spring: 
+  config: 
+    name: foo
+server: 
+  port: 8082
